@@ -1,4 +1,4 @@
 class A():
-  pass
+  pass1
 
  def
